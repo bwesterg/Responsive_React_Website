@@ -19,9 +19,9 @@ function Header() {
                     <p>1604 people have requested access in the last 4 minutes.</p>
                 </div>
 
-                {/* <div className="gpt3__header-image">
+                <div className="gpt3__header-image">
                     <img src={ai} alt="ai avatar"/>
-                </div> */}
+                </div>
             </div>
         </div>
     )
