@@ -8,8 +8,8 @@ function Header() {
     return (
         <div className="gpt3__header section__padding" id="home">
             <div className="gpt3__header-content">
-                <h1 className="gradient__text">AI is Coming</h1>
-                <p>AI must feed.  Do not resist.</p>
+                <h1 className="gradient__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
                 <div className="gpt3__header-content__input">
                     <input type="email" placeholder="Your email address"/>
                     <button type="submit">Get Started</button>
@@ -18,10 +18,9 @@ function Header() {
                     <img src={people} alt="people"/>
                     <p>1604 people have requested access in the last 4 minutes.</p>
                 </div>
-
-                <div className="gpt3__header-image">
-                    <img src={ai} alt="ai avatar"/>
-                </div>
+            </div>
+            <div className="gpt3__header-image">
+                <img src={ai} alt="ai avatar"/>
             </div>
         </div>
     )
