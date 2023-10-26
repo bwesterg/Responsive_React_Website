@@ -16,7 +16,7 @@ const Footer = () => {
             <div className="gpt3__footer-links">
                 <div className="gpt3__footer-links_logo">
                     <img src={gpt3Logo} alt="gpt3 logo" />
-                    <p>Dark Side of the Moon</p>
+                    <p>Here, there, and everywhere</p>
                 </div>
                 <div className="gpt3__footer-links_div">
                     <h4>Links</h4>

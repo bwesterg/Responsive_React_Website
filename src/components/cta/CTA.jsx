@@ -9,7 +9,7 @@ const CTA = () => {
                 <h3>Register today & start exploring the endless possibilities</h3>
             </div>
             <div className="gpt3__cta-button">
-                <button type="button">Get Started</button>
+                <button type="submit">Get Started</button>
             </div>
         </div>
     )

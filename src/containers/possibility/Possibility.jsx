@@ -13,7 +13,7 @@ function Possibility() {
                 <h4>Request Early Access to Get Started</h4>
                 <h1 className="gradient__text">A Land of Pure Imagination</h1>
                 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-                <h4>You should never, never, doubt what nobody is sure about</h4>
+                <h4>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis </h4>
             </div>
         </div>
     )
