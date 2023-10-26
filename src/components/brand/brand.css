@@ -6,7 +6,13 @@
     align-items: center;
 
     /* testing margin below */
-    margin-top: 2rem;
+    margin: 2rem 0;
+}
+
+@media screen and (max-width: 550px) {
+    .gpt3__brand {
+        margin: 0;
+    }
 }
 
 .gpt3__brand div {

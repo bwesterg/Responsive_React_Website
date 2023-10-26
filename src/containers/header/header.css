@@ -71,6 +71,7 @@
     padding: 0 1rem;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    border: none;
 }
 
 .gpt3__header-content__people {
